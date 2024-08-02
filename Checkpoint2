@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Delicious Bites Menu</h1>
+        <h2>Appetizers</h2>
+        <ul>
+            <li>Appetizers1</li>
+            <li>Appetizers2</li>
+            <li>Appetizers3</li>
+
+
+        <strong>Caprese Salad</strong>
+        <p>Fresh tomatoes, Mozzarella, and basil drizzled with balsamic glaze</p>
+        <li>Fresh1</li>
+        <li>Fresh2</li>
+        <li>Fresh3</li>
+    </ul>
+<h2>Main Courses</h2>
+<ul>
+    <li>Main1</li>
+    <li>Main2</li>
+    <li>Main3</li>
+
+
+<strong>Grilled Salmon</strong>
+<p>Salmon fillet seasoned and grilled to perfection, served with lemon butter sause</p>
+<li>Salman fillet 1</li>
+<li>Salman fillet 2</li>
+<li>Salman fillet 3</li>
+</ul>
+
+<h2>Desserts</h2>
+<ul>
+    <li>Dessert1</li>
+    <li>Dessert2</li>
+    <li>Dessert3</li>
+
+<strong>Chocolate Fondue</strong>
+<p>Assorted fruits and marshmallows served with rich chocolat fondue</p>
+</ul>
+
+<p><a href="Contact.html">Contact us for reservations</a></p>
+</body>
+</html>
